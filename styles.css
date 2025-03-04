@@ -1,0 +1,52 @@
+.m1{
+    display: flex;
+    padding: 15px;       
+   
+}
+.m1 button{
+    height: 70px;
+    width: 70px;
+   
+   
+    margin-left:5px ;
+}
+button:hover{
+    background-color: rgb(148, 49, 150);
+}
+.m2{
+    border: 1px solid rgb(144, 140, 140);
+    height: 600px;
+    width: 400px;
+    margin-left: 35%;
+    margin-top: 5%;
+    border-radius: 5%;
+}
+button{
+    font-size:25px;
+    color: aliceblue;
+    background-color: rgb(40, 42, 48);
+   
+background: transparent;
+border-radius: 50%;
+box-shadow:  -8px -8px 15px rgba(255,255,255,0.1)
+}
+input{
+   color: aliceblue;
+   font-size: 30px;
+   border:transparent;
+   background-color:rgb(32, 30, 30) ;
+   text-align: right;
+   box-shadow: 1px 2px 3px rgb(228, 211, 188);
+border-radius: 50%;
+/* background: linear-gradient(145deg, #cacaca, #f0f0f0); */
+
+   
+}
+.m3{
+    color: rgb(58, 243, 25);
+
+}
+.grup{
+    margin-left: 18px;
+    margin-top: 19px;
+}
